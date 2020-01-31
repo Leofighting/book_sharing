@@ -41,19 +41,15 @@ MAIL_PASSWORD = "QQ邮箱设置中的授权码"
 
 ## 整体框架及流程
 
-![Django-积分商城](C:\Users\xiaoj\Desktop\Django-积分商城.png)
+![image](https://github.com/Leofighting/book_sharing/blob/master/GitHub_file/fisher.png)
 
 ## 功能页面展示
 
 - 首页
-
-
+![image](https://github.com/Leofighting/book_sharing/blob/master/GitHub_file/01.gif)
 
 - 注册--登录--忘记密码
-
-
-
-
+![image](https://github.com/Leofighting/book_sharing/blob/master/GitHub_file/02.gif)
 
 ## 项目实操收获
 
